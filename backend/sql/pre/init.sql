@@ -1,8 +1,8 @@
 -- Crear la base de datos series
--- CREATE DATABASE IF NOT EXISTS series;
+CREATE DATABASE IF NOT EXISTS series;
 
 -- Usar la base de datos
--- USE series;
+USE series;
 
 -- Crear la tabla de personajes
 CREATE TABLE IF NOT EXISTS characters (
